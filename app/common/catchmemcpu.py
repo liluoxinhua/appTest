@@ -26,7 +26,7 @@ def writexlwt(filename,ctime,cpumem):
             sheet1.write(0,1,cpumem)
             workbook.save(filename)
     except Exception as e:
-        print(e)
+        raise e
 #获取cpu和mem的脚本
 def catchMemCpu():
     # 文件的存储路径,不能写在方法外，导入包时会先执行这些代码
@@ -83,7 +83,7 @@ def catchMemCpu():
         # t = threading.Timer(2, catchMemCpu)
         # t.start()
     except Exception as e:
-        print(e)
+        raise e
 # def catchstop():
 #     print(t)
 #     t.cancel()

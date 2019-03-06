@@ -26,8 +26,8 @@ def getlog():
         global Poplog
         Poplog=subprocess.Popen(logcmd,stdout=log_file,stderr=subprocess.PIPE)
     except Exception as e:
-        print(e)
         atp_log.error(e)
+        raise e
     #停止抓取log
 def stoplog():
     Poplog.terminate()
@@ -71,8 +71,8 @@ def readlog():
         print(countCrash)
         f_error.close()
     except Exception as e:
-        print(e)
         atp_log.error(e)
+        raise e
 if __name__=="__main__":
     getlog()
     time.sleep(5)

@@ -19,7 +19,7 @@ def send_email():
         subject='Tvsports Daily Stability Auto Test 3.7.1 on '+gl.ipport()
         smtpserver='mail.pptv.com'
         username = 'cherrylixh'
-        password = 'Liluo12345678@'
+        password = 'Liluo@12345678'
         # username=gl.email_name
         # password=gl.email_password
         #获取测试报告的路径
@@ -58,8 +58,8 @@ def send_email():
         smtp.sendmail(sender,reciever,msg.as_string().encode('ascii'))
         smtp.quit()
     except Exception as e:
-        print('邮件发送失败')
         atp_log.error('邮件发送失败')
+        raise e
 #手动写html，将png图片加载到html中
 def write_html():
     try:
@@ -84,7 +84,7 @@ def write_html():
         # write_report.write("<img src='cid:ppdata'/>" + "</br>")
         write_report.close()
     except Exception as e:
-        print('写入html失败')
         atp_log.error('写入html失败')
+        raise e
 if __name__=='__main__':
     send_email()

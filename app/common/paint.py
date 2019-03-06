@@ -45,8 +45,8 @@ def paint(picname,title):
         #将图片保存在本地
         plt.savefig(newreportpath+picname+'.png')
     except Exception as e:
-        print(e)
         atp_log.error(e)
+        raise e
 #读取csv文件的数据
 def get_weight_data(filename):
     time=[]
