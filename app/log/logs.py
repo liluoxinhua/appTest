@@ -3,11 +3,13 @@ import re
 import subprocess
 import time
 import collections
+import traceback
+
 import app.config.globalparameter as gl
 from app.log.log import atp_log
 def getlog():
     try:
-        ipport = gl.ipport()
+        ipport = gl.ipport
         #获取测试路径
         filepath=gl.newreport()
         #获取测试机器机型
@@ -26,7 +28,8 @@ def getlog():
         global Poplog
         Poplog=subprocess.Popen(logcmd,stdout=log_file,stderr=subprocess.PIPE)
     except Exception as e:
-        atp_log.error(e)
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         raise e
     #停止抓取log
 def stoplog():
@@ -71,7 +74,8 @@ def readlog():
         print(countCrash)
         f_error.close()
     except Exception as e:
-        atp_log.error(e)
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         raise e
 if __name__=="__main__":
     getlog()

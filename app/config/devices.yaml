@@ -1,12 +1,12 @@
 Devices:
   -
-    deviceid: 192.168.31.67
+    deviceId: 192.168.31.67
     port: 5555
-    devicename: pptv
-    serverport: 4723
-    bootstrapport: 4823
-    platformname: Android
-    platformversion: 5.1
+    deviceName: pptv
+    serverPort: 4723
+    bootstrApport: 4823
+    platformName: Android
+    platformVersion: 5.0.1
     server: 127.0.0.1
     packageName: com.pptv.tvsports
     appActivity: .activity.HomeActivity

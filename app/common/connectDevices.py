@@ -2,7 +2,7 @@ import subprocess
 import time
 import app.config.globalparameter as gl
 def connectDevice():
-    ipport=gl.ipport()
+    ipport=gl.ipport
     for i in range(5):
         time.sleep(3)
     connectTask=subprocess.Popen('adb connect '+ipport,shell=True,stdin=subprocess.PIPE,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)

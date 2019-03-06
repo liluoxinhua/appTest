@@ -1,11 +1,16 @@
 #coding=utf-8
 import os,time
 import threading
+import traceback
+
 import xlwt
 import xlrd
 from xlutils.copy import copy
 import app.config.globalparameter as gl
 #将数据写入excel文件中
+from app.log.log import atp_log
+
+
 def writexlwt(filename,ctime,cpumem):
     try:
         if os.path.exists(filename):
@@ -26,11 +31,13 @@ def writexlwt(filename,ctime,cpumem):
             sheet1.write(0,1,cpumem)
             workbook.save(filename)
     except Exception as e:
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         raise e
 #获取cpu和mem的脚本
 def catchMemCpu():
     # 文件的存储路径,不能写在方法外，导入包时会先执行这些代码
-    IPPORT = gl.ipport()
+    IPPORT = gl.ipport
     filepath = gl.newreport()
     cpuppdatarpath = filepath + gl.cpuppdata + '.csv'
     cpuguardpath = filepath + gl.cpuguard + '.csv'
@@ -83,6 +90,8 @@ def catchMemCpu():
         # t = threading.Timer(2, catchMemCpu)
         # t.start()
     except Exception as e:
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         raise e
 # def catchstop():
 #     print(t)

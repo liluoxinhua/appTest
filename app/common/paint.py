@@ -1,4 +1,5 @@
 #coding=utf-8
+import traceback
 import matplotlib.pyplot as plt
 import matplotlib.image as mping
 from datetime import datetime as dt
@@ -45,7 +46,8 @@ def paint(picname,title):
         #将图片保存在本地
         plt.savefig(newreportpath+picname+'.png')
     except Exception as e:
-        atp_log.error(e)
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         raise e
 #读取csv文件的数据
 def get_weight_data(filename):

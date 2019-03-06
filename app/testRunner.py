@@ -1,7 +1,9 @@
 # coding:utf-8
 import threading
+import traceback
 import unittest,time,os
 from unittest import TestSuite
+from BeautifulReport import BeautifulReport as bf
 import app.common.send_mail as send_mail
 import app.config.globalparameter as gl
 from app.testcase.testCourse import testCourse
@@ -9,14 +11,10 @@ from app.testcase.testLive import testLive
 from app.testcase.testMonkey import testMonkey
 from app.common.catchmemcpu import catchMemCpu
 from app.common.paint import paint
-import time
-from BeautifulReport import BeautifulReport as bf
 from app.log import logs
 from app.log.log import atp_log
 from app.common.connectDevices import connectDevice
-#testcase_path='C:\\Users\\cherrylixh\\PycharmProjects\\appTest\\app\\testcase'
 
-#createReport=report.report()
 def catches():
     catchMemCpu()
     global t
@@ -72,9 +70,11 @@ if __name__=='__main__':
             print('cannot connect device')
             atp_log.error('cannot connect device')
     except Exception as e:
-        print(e)
+        traceback.print_exc()
+        atp_log.error(traceback.format_exc())
         os.popen('taskkill /f /t /im python37.exe')
-
+    finally:
+        os.popen('taskkill /f /t /im python37.exe')
 
 
 

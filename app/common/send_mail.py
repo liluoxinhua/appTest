@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 import os,smtplib,os.path
+import traceback
 from email.mime.image import MIMEImage
-import app.config.globalparameter as gl
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.header import Header
 from smtplib import SMTP_SSL
 from bs4 import BeautifulSoup
+import app.config.globalparameter as gl
 from app.log.log import atp_log
 #定义邮件内容
 def send_email():
@@ -16,7 +17,7 @@ def send_email():
         #邮件的配置项：发件人，收件人，标题，用户及密码
         sender='cherrylixh@pptv.com'
         reciever=['cherrylixh@pptv.com']
-        subject='Tvsports Daily Stability Auto Test 3.7.1 on '+gl.ipport()
+        subject='Tvsports Daily Stability Auto Test 3.7.1 on '+gl.ipport
         smtpserver='mail.pptv.com'
         username = 'cherrylixh'
         password = 'Liluo@12345678'
@@ -58,7 +59,9 @@ def send_email():
         smtp.sendmail(sender,reciever,msg.as_string().encode('ascii'))
         smtp.quit()
     except Exception as e:
+        traceback.print_exc()
         atp_log.error('邮件发送失败')
+        atp_log.error(traceback.format_exc())
         raise e
 #手动写html，将png图片加载到html中
 def write_html():
@@ -84,7 +87,9 @@ def write_html():
         # write_report.write("<img src='cid:ppdata'/>" + "</br>")
         write_report.close()
     except Exception as e:
+        traceback.print_exc()
         atp_log.error('写入html失败')
+        atp_log.error(traceback.format_exc())
         raise e
 if __name__=='__main__':
     send_email()

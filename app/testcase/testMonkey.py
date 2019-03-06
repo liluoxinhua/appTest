@@ -11,6 +11,6 @@ class testMonkey(TestInterfaceCase):
         # cls.driver.quit()
         pass
     def test_01(self):
-        IPPORT=gl.ipport()
-        number='5000'
+        IPPORT=gl.ipport
+        number='1000'
         TestInterfaceCase().monkey_android(IPPORT,number)
