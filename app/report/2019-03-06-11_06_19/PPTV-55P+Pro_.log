@@ -1,0 +1,816 @@
+--------- beginning of main
+03-06 11:06:39.026  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.026  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.027  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.027  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.027  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.127  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.128  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.128  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.128  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.128  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.228  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.229  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.229  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.229  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.229  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.330  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.330  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.330  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.330  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.330  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.431  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.431  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.431  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.432  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.432  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.532  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.532  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.532  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.533  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.533  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.633  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.633  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.634  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.634  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.634  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.734  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.735  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.735  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.735  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.735  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.835  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.836  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.836  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.836  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.836  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.936  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:39.937  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:39.937  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:39.937  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:39.937  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:39.965  1760  2504 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:40.037  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.038  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.038  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.038  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.038  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.138  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.139  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.139  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.139  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.139  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.239  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.240  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.240  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.240  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.240  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.340  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.341  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.341  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.341  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.341  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.442  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.442  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.442  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.442  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.442  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.543  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.543  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.543  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.544  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.544  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.644  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.644  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.645  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.645  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.645  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.745  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.745  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.746  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.746  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.746  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.846  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.847  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.847  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.847  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.847  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:40.947  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:40.948  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:40.948  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:40.948  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:40.948  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.048  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.049  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.049  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.049  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.049  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.149  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.150  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.150  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.150  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.150  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.251  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.251  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.251  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.251  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.251  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.352  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.352  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.352  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.352  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.352  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.453  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.453  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.453  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.453  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.453  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.466  1760  2380 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:41.554  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.554  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.554  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.555  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.555  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.655  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.655  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.656  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.656  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.656  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.756  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.757  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.757  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.757  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.757  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.845  2626  2626 I txc     : onPageScrollStateChanged== state= ====2
+03-06 11:06:41.845  2626  2626 I txc     : onPageSelected== position= ====0
+03-06 11:06:41.857  2626  2626 D GLIDE   : onResourceReady(com.bumptech.glide.load.resource.bitmap.GlideBitmapDrawable@2d15f1d6, /data/data/com.pptv.screenprotect/cache/ScreenProtect1/TA2018102510135500001.jpg, Target for: android.widget.ImageView{38b5c57 V.ED..C. ......ID 384000,0-385920,1080 #7f0c0074 app:id/daimajia_slider_image}, true, true)
+03-06 11:06:41.857  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.858  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.858  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.858  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.858  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:41.958  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:41.959  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:41.959  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:41.960  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:41.960  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.060  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.060  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.061  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.061  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.061  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.161  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.162  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.162  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.162  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.162  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.263  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.263  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.264  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.264  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.264  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.365  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.365  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.366  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.366  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.366  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.467  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.467  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.467  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.468  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.468  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.569  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.581  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.581  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.581  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.581  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.682  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.682  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.683  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.683  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.683  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.784  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.785  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.785  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.786  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.786  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.886  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.887  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.887  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.887  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.887  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:42.966  1760  1780 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:42.988  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:42.989  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:42.989  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:42.989  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:42.989  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.090  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.090  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.091  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.092  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.092  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.186  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3203(186KB) AllocSpace objects, 0(0B) LOS objects, 25% free, 2MB/3MB, paused 339us total 28.647ms
+03-06 11:06:43.193  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.195  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.195  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.195  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.195  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.263  3676  3693 I art     : Explicit concurrent mark sweep GC freed 53(2024B) AllocSpace objects, 0(0B) LOS objects, 25% free, 2MB/3MB, paused 452us total 25.387ms
+03-06 11:06:43.296  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.297  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.298  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.299  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.299  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.331  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 25% free, 2MB/3MB, paused 458us total 27.573ms
+03-06 11:06:43.396  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 25% free, 2MB/3MB, paused 523us total 23.518ms
+03-06 11:06:43.399  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.400  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.401  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.402  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.402  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.459  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 25% free, 2MB/3MB, paused 449us total 22.246ms
+03-06 11:06:43.504  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.504  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.505  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.505  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.505  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.606  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.607  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.608  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.609  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.609  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.710  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.712  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.712  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.712  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.712  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.813  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.813  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.813  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.814  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.814  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:43.890  2626  2626 I txc     : onPageScrollStateChanged== state= ====0
+03-06 11:06:43.890  2626  2626 I txc     : onPageScrollStateChanged== positionOffsetPixels= ====ZoomOut
+03-06 11:06:43.892  2626  4118 I AdSendManager: startUrl== url= ====http://jp.as.cp61.ott.cibntv.net/ikanstat/stat?pos=300109&tid=TA2018102510135500001&sid=&cid=&pid=&vchid=0&seq=0&lid=001&rqip=2029896051&rqfreq=&rqtime=1551838495974&mtrseq=0&vvid=&uuid=@[uuid]&ver=4.6.0&dpid=002592A5524C&act=1000&platform=65536&reqtype=vast&o=110037&e=40D2B3EB2CA87109AA76C1256A5EC172&sectionid=&appid=com.pptv.screenprotect&creative_abtest=0&userUnique=&utm=&isVip=0
+03-06 11:06:43.914  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:43.915  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:43.916  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:43.916  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:43.916  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.017  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.018  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.018  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.018  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.018  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.116  2626  4118 I AdSendManager: sendUrl== isSuccessful= ====true
+03-06 11:06:44.116  2626  4118 I AdSendManager: completeUrl== url= ====http://jp.as.cp61.ott.cibntv.net/ikanstat/stat?pos=300109&tid=TA2018102510135500001&sid=&cid=&pid=&vchid=0&seq=0&lid=001&rqip=2029896051&rqfreq=&rqtime=1551838495974&mtrseq=0&vvid=&uuid=@[uuid]&ver=4.6.0&dpid=002592A5524C&act=1001&platform=65536&reqtype=vast&o=110037&e=40D2B3EB2CA87109AA76C1256A5EC172&sectionid=&appid=com.pptv.screenprotect&creative_abtest=0&userUnique=&utm=&isVip=0
+03-06 11:06:44.118  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.119  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.119  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.119  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.119  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.213  2626  4118 I AdSendManager: sendUrl== isSuccessful= ====true
+03-06 11:06:44.213  2626  4118 I txc     : SendUrlCompleteListener== onSendUrlComplete= ====
+03-06 11:06:44.213  2626  4118 I AdSendManager:  是否正在发送日志 =====false
+03-06 11:06:44.214  2626  4118 I AdSendManager: 开始查询   filepath=====/data/data/com.pptv.screenprotect/cache/AdLogCache/
+03-06 11:06:44.215  2626  4118 I AdSendManager: fileList filename==-开始删除过多的文件--------------------
+03-06 11:06:44.215  2626  4118 I AdSendManager: fileList filename==-查询剩余的文件--------------------
+03-06 11:06:44.215  2626  4118 I AdSendManager: fileList filename==-查询完毕-----------------
+03-06 11:06:44.215  2626  4118 I AdSendManager:  清理完成  开始发送日志 =====/data/data/com.pptv.screenprotect/cache/AdLogCache/
+03-06 11:06:44.215  2626  4118 I AdSendManager: ==sendAdUrl 在线广告日志发送成功11= ====
+03-06 11:06:44.220  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.220  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.220  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.221  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.221  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.321  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.321  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.322  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.322  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.322  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.423  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.423  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.423  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.424  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.424  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.467  1760  1782 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:44.524  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.524  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.525  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.525  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.525  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.625  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.626  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.626  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.626  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.626  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.727  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.727  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.728  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.728  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.728  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.828  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.829  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.829  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.829  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.829  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:44.929  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:44.930  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:44.930  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:44.931  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:44.931  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.031  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.032  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.032  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.032  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.032  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.133  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.133  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.133  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.133  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.133  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.234  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.234  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.234  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.234  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.234  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.335  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.335  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.335  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.335  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.336  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.418  3676  3694 I art     : Explicit concurrent mark sweep GC freed 885(55KB) AllocSpace objects, 1(16KB) LOS objects, 24% free, 2MB/3MB, paused 346us total 20.757ms
+03-06 11:06:45.436  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.437  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.437  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.437  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.437  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.475  3676  3694 I art     : Explicit concurrent mark sweep GC freed 18(632B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 339us total 21.530ms
+03-06 11:06:45.531  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 335us total 20.509ms
+03-06 11:06:45.537  1170  1170 I tvos    : [37m[INFO] Change to Voltage: 117 mv (0x32)[m
+03-06 11:06:45.538  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.538  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.539  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.539  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.539  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.576  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 231us total 15.854ms
+03-06 11:06:45.619  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 248us total 15.419ms
+03-06 11:06:45.639  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.640  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.640  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.640  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.640  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.737  1170  1170 I tvos    : [37m[INFO] Change to Voltage: 102 mv (0x23)[m
+03-06 11:06:45.740  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.741  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.741  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.741  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.741  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.841  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.842  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.843  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.843  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.843  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.944  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:45.945  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:45.945  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:45.945  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:45.945  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:45.968  1760  2504 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:46.046  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.047  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.047  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.048  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.048  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.148  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.149  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.149  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.150  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.150  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.250  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.251  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.252  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.252  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.252  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.353  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.354  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.354  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.354  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.354  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.455  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.455  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.456  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.456  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.456  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.557  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.557  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.557  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.558  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.558  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.659  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.659  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.659  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.660  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.660  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.761  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.761  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.762  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.762  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.762  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.862  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.863  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.863  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.863  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.863  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:46.963  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:46.964  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:46.965  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:46.965  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:46.965  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.066  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.066  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.067  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.067  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.067  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.167  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.168  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.169  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.169  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.169  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.270  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.270  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.270  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.270  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.271  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.371  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.371  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.372  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.372  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.372  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.425  3676  3693 I art     : Explicit concurrent mark sweep GC freed 888(56KB) AllocSpace objects, 1(16KB) LOS objects, 24% free, 2MB/3MB, paused 343us total 20.758ms
+03-06 11:06:47.469  1760  2380 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:47.473  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.473  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.474  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.474  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.474  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.481  3676  3693 I art     : Explicit concurrent mark sweep GC freed 18(632B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 345us total 20.936ms
+03-06 11:06:47.536  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 333us total 20.378ms
+03-06 11:06:47.574  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.575  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.575  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.576  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.576  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.591  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 337us total 20.589ms
+03-06 11:06:47.646  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 336us total 20.421ms
+03-06 11:06:47.676  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.677  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.677  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.678  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.678  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.779  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.779  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.779  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.779  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.779  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.880  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.880  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.881  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.881  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.881  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:47.982  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:47.982  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:47.982  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:47.983  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:47.983  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.083  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.084  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.084  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.084  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.084  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.185  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.185  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.185  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.185  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.185  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.286  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.286  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.287  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.287  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.287  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.388  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.388  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.388  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.389  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.389  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.489  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.490  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.490  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.490  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.490  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.590  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.591  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.591  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.591  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.591  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.692  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.692  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.693  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.693  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.693  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.793  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.794  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.794  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.794  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.794  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.895  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.895  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.895  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.896  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.896  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:48.970  1760  1780 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:48.996  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:48.997  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:48.997  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:48.997  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:48.997  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.098  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.098  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.098  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.098  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.098  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.199  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.199  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.200  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.200  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.200  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.300  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.301  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.301  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.301  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.301  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.402  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.402  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.402  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.402  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.402  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.503  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.503  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.503  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.503  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.503  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.541  3676  3694 I art     : Explicit concurrent mark sweep GC freed 19(1656B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 335us total 20.867ms
+03-06 11:06:49.596  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 311us total 20.329ms
+03-06 11:06:49.604  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.604  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.605  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.605  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.605  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.652  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 308us total 20.553ms
+03-06 11:06:49.705  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.706  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.706  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.706  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.706  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.707  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 332us total 20.527ms
+03-06 11:06:49.761  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 308us total 20.309ms
+03-06 11:06:49.807  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.807  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.808  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.808  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.808  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:49.908  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:49.909  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:49.909  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:49.909  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:49.909  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.010  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.010  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.011  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.011  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.011  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.111  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.112  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.112  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.112  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.112  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.213  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.213  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.213  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.213  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.214  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.314  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.314  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.315  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.315  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.315  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.415  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.416  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.416  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.416  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.416  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.471  1760  1782 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:50.517  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.517  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.517  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.517  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.517  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.618  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.618  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.619  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.619  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.619  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.719  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.720  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.720  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.720  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.720  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.821  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.821  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.821  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.822  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.822  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.922  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:50.922  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:50.923  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:50.923  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:50.923  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:50.949  1742  1873 D NotificationController: notificationUri=content://com.pptv.providers.SystemUIProvider/notification, sortOrder=time DESC, mContentResolver=android.app.ContextImpl$ApplicationContentResolver@fb4f397
+03-06 11:06:50.949  1742  1873 D NotificationController: deleteExpiryNotification
+03-06 11:06:51.023  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.024  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.024  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.025  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.025  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.125  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.126  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.126  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.126  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.126  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.227  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.227  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.227  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.227  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.227  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.328  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.329  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.329  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.329  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.329  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.429  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.430  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.430  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.430  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.430  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.530  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.531  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.531  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.531  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.531  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.632  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.632  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.633  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.633  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.633  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.669  3676  3693 I art     : Explicit concurrent mark sweep GC freed 888(56KB) AllocSpace objects, 1(16KB) LOS objects, 24% free, 2MB/3MB, paused 371us total 20.694ms
+03-06 11:06:51.723  3676  3693 I art     : Explicit concurrent mark sweep GC freed 18(632B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 314us total 20.399ms
+03-06 11:06:51.733  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.734  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.734  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.734  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.734  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.779  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 366us total 20.431ms
+03-06 11:06:51.834  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 311us total 20.302ms
+03-06 11:06:51.834  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.835  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.835  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.835  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.835  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.890  3676  3693 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 498us total 20.445ms
+03-06 11:06:51.936  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:51.936  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:51.936  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:51.936  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:51.936  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:51.971  1760  2504 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:52.037  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.037  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.037  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.038  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.038  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.138  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.139  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.139  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.139  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.139  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.239  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.240  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.240  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.240  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.240  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.341  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.341  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.341  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.342  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.342  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.442  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.443  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.443  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.443  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.443  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.543  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.544  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.544  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.544  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.544  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.645  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.645  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.645  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.645  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.646  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.746  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.746  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.747  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.747  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.747  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.847  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.848  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.848  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.848  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.848  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:52.949  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:52.949  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:52.949  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:52.950  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:52.950  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.051  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.052  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.052  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.052  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.052  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.153  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.154  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.155  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.155  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.155  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.256  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.256  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.256  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.257  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.257  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.357  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.357  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.358  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.358  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.358  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.458  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.459  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.459  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.459  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.459  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.472  1760  2380 D PlayerImpl_JNI: isSignalStable
+03-06 11:06:53.533  2043  2291 D HeartBeat: url=http://tms.api.cp61.ott.cibntv.net/init/hearbeat?mac=00:25:92:A5:52:4C
+03-06 11:06:53.559  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.560  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.560  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.561  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.561  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.622  2043  2291 D HeartBeat: httpResponse.getStatusLine().getStatusCode()=200
+03-06 11:06:53.624  2043  2291 D HeartBeat: response = {"code":"0","message":"success"}
+03-06 11:06:53.661  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.662  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.662  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.662  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.662  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.700  3676  3694 I art     : Explicit concurrent mark sweep GC freed 888(56KB) AllocSpace objects, 1(16KB) LOS objects, 24% free, 2MB/3MB, paused 368us total 20.634ms
+03-06 11:06:53.755  3676  3694 I art     : Explicit concurrent mark sweep GC freed 18(632B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 309us total 20.383ms
+03-06 11:06:53.762  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.763  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.763  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.763  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.763  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.810  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 307us total 20.294ms
+03-06 11:06:53.864  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.864  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.865  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.865  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.865  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:53.868  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 540us total 24.015ms
+03-06 11:06:53.936  3676  3694 I art     : Explicit concurrent mark sweep GC freed 3(96B) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 397us total 25.259ms
+03-06 11:06:53.965  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:53.966  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:53.966  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:53.966  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:53.966  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:54.067  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:54.067  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:54.067  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:54.068  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:54.068  1760  2478 I PictureManager_JNI: setBacklight
+03-06 11:06:54.072  1595  1660 E WifiStateMachine: WifiStateMachine CMD_START_SCAN source -2 txSuccessRate=166.21 rxSuccessRate=118.39 targetRoamBSSID=34:ce:00:00:c8:59 RSSI=-45
+03-06 11:06:54.169  1760  2478 I PictureManager_JNI: getDlcAverageLuma
+03-06 11:06:54.169  1760  2478 I TvManager_JNI: isSignalStable
+03-06 11:06:54.169  1760  2478 I PictureManager_JNI: getBacklight
+03-06 11:06:54.170  1760  2478 E septemberan: dbcHandler: mDbcBacklightRange: 48
+03-06 11:06:54.170  1760  2478 I PictureManager_JNI: setBacklight
